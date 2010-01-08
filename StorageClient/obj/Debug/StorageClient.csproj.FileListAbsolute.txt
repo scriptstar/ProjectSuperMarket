@@ -1,0 +1,16 @@
+C:\Azure\WindowsAzure-AdditionalSamples\WindowsAzure-AdditionalSamples\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Azure\WindowsAzure-AdditionalSamples\WindowsAzure-AdditionalSamples\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Azure\WindowsAzure-AdditionalSamples\WindowsAzure-AdditionalSamples\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Azure\WindowsAzure-AdditionalSamples\WindowsAzure-AdditionalSamples\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Azure\WindowsAzure-AdditionalSamples\WindowsAzure-AdditionalSamples\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Azure\WindowsAzure-AdditionalSamples\WindowsAzure-AdditionalSamples\StorageClient\Lib\bin\Debug\StorageClient.XML
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\CloudProject\StorageClient\bin\Debug\StorageClient.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\CloudProject\StorageClient\bin\Debug\StorageClient.pdb
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\CloudProject\StorageClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\CloudProject\StorageClient\obj\Debug\StorageClient.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\CloudProject\StorageClient\obj\Debug\StorageClient.pdb
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\StorageClient\bin\Debug\StorageClient.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\StorageClient\bin\Debug\StorageClient.pdb
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\StorageClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\StorageClient\obj\Debug\StorageClient.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\StorageClient\obj\Debug\StorageClient.pdb

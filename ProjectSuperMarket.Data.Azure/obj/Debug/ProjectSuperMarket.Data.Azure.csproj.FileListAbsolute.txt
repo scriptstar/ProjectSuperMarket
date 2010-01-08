@@ -1,0 +1,12 @@
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\bin\Debug\ProjectSuperMarket.Data.Azure.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\bin\Debug\ProjectSuperMarket.Data.Azure.pdb
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\bin\Debug\ProjectSuperMarket.Data.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\bin\Debug\ProjectSuperMarket.Data.pdb
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\obj\Debug\ProjectSuperMarket.Data.Azure.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\obj\Debug\ProjectSuperMarket.Data.Azure.pdb
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\bin\Debug\StorageClient.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\bin\Debug\StorageClient.pdb
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data.Azure\bin\Debug\StorageClient.xml

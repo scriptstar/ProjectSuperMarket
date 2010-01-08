@@ -1,0 +1,5 @@
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data\bin\Debug\ProjectSuperMarket.Data.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data\bin\Debug\ProjectSuperMarket.Data.pdb
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data\obj\Debug\ProjectSuperMarket.Data.dll
+C:\Users\Narendra\Documents\Visual Studio 2008\Projects\ProjectSuperMarket\ProjectSuperMarket.Data\obj\Debug\ProjectSuperMarket.Data.pdb

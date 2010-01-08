@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ServiceConfiguration serviceName="ProjectSuperMarket" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration">
+  <Role name="ProjectSuperMarket.Web">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="DiagnosticsConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="DataConnectionString" value="DefaultEndpointsProtocol=http;AccountName=scriptstar;AccountKey=xiG/wzOL0OLzQTJ6ykNC9YVzA2r73YNNALZ02SAdP9RT0w0K0rGpJCI0GQw0pudSoTMj13sgoOr4+oJUsdD7Pw==" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>
